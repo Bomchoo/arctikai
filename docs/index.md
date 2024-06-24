@@ -1,17 +1,23 @@
-# Welcome to MkDocs
+# Arctik AI User Documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the Arctik AI User Documentation, this is a quick and easy how to on getting up and running using Arctik AI - Please note, that you will need to provide your own API keys. Right now, we only currently support select Models from OpenAI and Google Gemini. We also grant you access to our plethora of Assistants, designed to make your life easier! Please continue reading for more information, and setup guides.
 
-## Commands
+## What is our platform?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+We run our platform based off of LibreChat. It's open source and free meaning you can to! We don't charge you a dime, because you bring your own API keys.
 
-## Project layout
+## Security
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Is my API Key Secure?
+
+!!! success
+
+    **Yes. All keys are securely stored and encrypted. We only keep the keys for as long as you permit. You can specify the length upon adding your keys.**
+
+### Will I lose my API account?
+
+!!! warning "Read The Rules"
+
+    ***Be sure to read the rules on usage from each provider prior to using their service, make sure you agree and are willing to abide by their terms.***
+
+Unless you're breaking OpenAI policies or Google AI policies, we have no control over your API access. If your key stops working, please check your account, and make sure you have added enough credits to fund your access to the API. Otherwise, either try a different key, or contact support through OpenAI or Googgle. 
