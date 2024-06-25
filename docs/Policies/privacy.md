@@ -51,4 +51,4 @@ Our website may include links to third-party websites, plug-ins, and application
 
 ## Changes to This Privacy Policy 
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy from time to time.
