@@ -1,23 +1,44 @@
-# Arctik AI User Documentation
+# Welcome
 
-Welcome to the Arctik AI User Documentation, this is a quick and easy how to on getting up and running using Arctik AI - Please note, that you will need to provide your own API keys. Right now, we only currently support select Models from OpenAI and Google Gemini. We also grant you access to our plethora of Assistants, designed to make your life easier! Please continue reading for more information, and setup guides.
+## Welcome to Arctik AI
 
-## What is our platform?
+Welcome to Arctik AI, your go-to destination for AI-powered content generation designed with family and friends in mind!
 
-We run our platform based off of LibreChat. It's open source and free meaning you can to! We don't charge you a dime, because you bring your own API keys.
+At Arctik AI, we are dedicated to enriching your connections through the power of artificial intelligence. Whether you're looking to create personalized messages, heartwarming stories, or fun and engaging content, we've got you covered. Our platform provides all the tools and resources you need to make the most out of AI technology, tailored specifically to enhance your interactions with loved ones.
 
-## Security
+Dive into a world where creativity meets technology, and discover new ways to share love, joy, and memorable moments with those who matter most. Welcome to Arctik AI—where family, friends, and cutting-edge AI come together in perfect harmony.
 
-### Is my API Key Secure?
+## Our Services
 
-!!! success
+1.  ### **OpenAI Access**
+    - Seamless integration with OpenAI’s powerful models
+    - Generate creative and personalized content for any occasion
 
-    **Yes. All keys are securely stored and encrypted. We only keep the keys for as long as you permit. You can specify the length upon adding your keys.**
+2. ### **Virtual Assistants**
+  
+    - Personal AI assistants to help manage daily tasks
+    - Enhanced communication tools to keep in touch with family and friends
 
-### Will I lose my API account?
+3. ### **No API Key Required**
+    - User-friendly setup without the hassle of managing API keys
+    - Immediate access to our suite of AI-powered features
 
-!!! warning "Read The Rules"
+4. ### **Customized Content Generation**
+  
+    - Tailored messages, stories, and social media posts
+    - Specialized templates for birthdays, anniversaries, and other special events
 
-    ***Be sure to read the rules on usage from each provider prior to using their service, make sure you agree and are willing to abide by their terms.***
+5. ### **Interactive Chatbots**
+  
+    - Engaging chatbots to entertain and inform
+    - Perfect for collaborative family projects and fun activities
 
-Unless you're breaking OpenAI policies or Google AI policies, we have no control over your API access. If your key stops working, please check your account, and make sure you have added enough credits to fund your access to the API. Otherwise, either try a different key, or contact support through OpenAI or Googgle. 
+6. ### **Privacy and Security**
+  
+    - Robust data protection to keep your interactions safe and secure
+    - Self-hosting options for maximum control over your data
+
+7. ### **Multi-Platform Support**
+  
+    - Accessible from mobile, desktop, and web applications
+    - Seamless experience across all your devices
